@@ -25,7 +25,8 @@ src/
 - `src/styles/reset.css`: Reset de estilos para padronização.
 
 ## Como rodar
-Acesse o link do repositório para jogar online.
+Acesse diretamente pelo o link abaixo:
+[https://gabrieladevx.github.io/Jogo-da-memoria-com-Emojis-Utilizando-Javascript/]
 
 
 
